@@ -5,5 +5,7 @@
 Вивести можна будь-яку інформацію із бази даних, яку ви додасте в модель.
 
 Дані для адмін панелі:
-  Username: admin
-  Password: admin
+  
+Username: admin
+
+Password: admin
